@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfeather12
-- 👀 I’m interested in bioinformatics, though very much a beginner on the programming side.
+- 👀 I’m a retired molecular biologist interested in bioinformatics, though very much a beginner on the programming side.
 - 🌱 I’m currently learning Python.
 - 📫 I can be reached at msfeatherstone@gmail.com
 
